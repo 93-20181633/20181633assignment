@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name = "com.example.a20181633assignment.usermadeActivity" android:label ="회원가입"/>
+        <activity android:name = "com.example.a20181633assignment.cal" android:label ="계산기"/>
     </application>
 
 </manifest>
